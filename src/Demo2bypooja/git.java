@@ -1,7 +1,5 @@
 package Demo2bypooja;
 
-import demo.String;
-
 public class git {
 
 	public static void main(String[] args) {
